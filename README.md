@@ -1,5 +1,6 @@
 # Forex Price Prediction using LSTM
 
+![image](https://github.com/user-attachments/assets/e32c6012-4476-4095-8ab8-f502883d8d94)
 
 
 ## Overview
